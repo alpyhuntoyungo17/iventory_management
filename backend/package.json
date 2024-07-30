@@ -1,1 +1,24 @@
 
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "An example Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/example-project.git"
+  },
+  "keywords": ["node", "express", "example"],
+  "author": "Your Name",
+  "license": "ISC"
+}
